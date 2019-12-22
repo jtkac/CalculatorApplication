@@ -1,3 +1,3 @@
 # CalculatorApplication
 
-Hello World, this is the develop branch!
+Hello World, this is the release branch now!
